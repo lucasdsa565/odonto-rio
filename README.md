@@ -1,4 +1,4 @@
-# odonto_rio
+# odonto-rio
 
 🦷 OdontoRio -
 
